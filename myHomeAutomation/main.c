@@ -2,7 +2,7 @@
  * myHomeAutomation.c
  *
  * Created: 30.05.2019 23:58:02
- * Author : VO
+ * Author : CryptoTyler
  */ 
 #include <util/delay.h>
 #include <string.h>
